@@ -1,0 +1,2 @@
+C:\Projects\AIImageRevitPlugin\obj\Debug\AIImageRevitPlugin.csproj.AssemblyReference.cache
+C:\Projects\AIImageRevitPlugin\obj\Debug\AIImageRevitPlugin.csproj.CoreCompileInputs.cache
